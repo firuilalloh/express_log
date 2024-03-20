@@ -1,0 +1,18 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "root",
+    "password": "12345",
+    "database": "express_log",
+    "format": "utf8mb4"
+  },
+
+  "port": 3014,
+
+  "debug": true,
+
+  "jwt": {
+    "passcode": "12345",
+    "expired": 1800000
+  }
+}
